@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: ``,
     // Content of the About Me section
-    about: ``,
+    about: `열정을 품은 개발자 '박근영'의 홈페이지에 오신 것을 환영합니다. 저는 게임 개발자를 지망하는 대학생입니다. 유니티를 주로 이용하여 게임을 만들고 있으며 언리얼 엔진을 사용하기 위한 부를 하고 있습니다.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
