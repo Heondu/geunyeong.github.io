@@ -3,11 +3,11 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://geunyeong.netlify.app/`,
     // Your Name
-    name: 'Geunyeong Park',
+    name: '박근영',
     // Main Site Title
-    title: `Geunyeong Park | Game Developer`,
+    title: `박근영의 포트폴리오`,
     // Description that goes under your name in main bio
-    description: `Hello, I'm Guenyeong Park, I'm a game developer!`,
+    description: `게임 개발자를 꿈꾸는 청년`,
     // Optional: Twitter account handle
     author: ``,
     // Optional: Github account URL
@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: ``,
     // Content of the About Me section
-    about: `열정을 품은 개발자 '박근영'의 홈페이지에 오신 것을 환영합니다. 저는 게임 개발자를 지망하는 대학생입니다. 유니티를 주로 이용하여 게임을 만들고 있으며 언리얼 엔진을 사용하기 위한 부를 하고 있습니다.`,
+    about: `열정을 품은 개발자 '박근영'의 홈페이지에 오신 것을 환영합니다. 저는 게임 개발자를 지망하는 대학생입니다. 유니티를 주로 이용하여 게임을 만들고 있으며, 언리얼 엔진을 사용하기 위한 공부를 하고 있습니다.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
